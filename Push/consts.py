@@ -23,7 +23,7 @@ MUSICAL_MODES = ['Major',
   7,
   8,
   10],
- 'Ionian' 
+ 'Ionian',
  [0,
   2,
   4,
